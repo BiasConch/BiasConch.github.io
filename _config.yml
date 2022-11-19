@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   A rabbit hole of malware anlysis with a sprinkle of my own person tinkering.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://biasconch.com/'
+url: 'https://biasconch.github.io/'
 
 github:
   username: BiasConch             # change to your github username
